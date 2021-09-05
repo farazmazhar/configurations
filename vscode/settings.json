@@ -1,0 +1,15 @@
+{
+    "editor.fontFamily": "'Cascadia Code'",
+    "editor.fontLigatures": true,
+    "workbench.colorTheme": "Dracula",
+    "editor.rulers": [
+        88
+    ],
+    "python.formatting.provider": "black",
+    "python.formatting.blackArgs": [
+        "--line-length", "88"
+    ],
+    "python.linting.flake8Args": [
+        "--max-line-length=88"
+    ]
+}
